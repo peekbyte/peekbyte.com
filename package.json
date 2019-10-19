@@ -1,0 +1,14 @@
+{
+  "name": "peekbyte.com",
+  "author": {
+    "name": "Hassan Falhai",
+    "email": "hfalahi@gmail.com",
+    "url": "https://peekbyte.com"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "stylus": "^0.54.7"
+  }
+}
